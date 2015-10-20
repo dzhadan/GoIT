@@ -1,0 +1,14 @@
+  body {
+    width: 806px; /* Максимальная ширина страницы в пикселах */ 
+    height: 1440px;
+    font-size: 18pt;
+   }
+ hr {
+    border: none; /* Убираем границу */
+    background-color: black; /* Цвет линии */
+    height: 1px; /* Толщина линии */
+   }
+
+#block1 {
+	margin-left: 100px;
+		} 
